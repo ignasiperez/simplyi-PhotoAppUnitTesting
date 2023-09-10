@@ -5,6 +5,10 @@ xcuserdata/
 *.xcscmblueprint
 *.xccheckout
 
+## Project-wide
+.DS_Store
+*.DS_Store
+
 ## Build generated
 build/
 DerivedData/
